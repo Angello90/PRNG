@@ -51,6 +51,13 @@
         "xstring": "cpp",
         "xtr1common": "cpp",
         "xutility": "cpp",
-        "chrono": "cpp"
+        "chrono": "cpp",
+        "*.tcc": "cpp",
+        "ratio": "cpp",
+        "sstream": "cpp",
+        "forward_list": "cpp",
+        "iomanip": "cpp",
+        "optional": "cpp",
+        "vector": "cpp"
     }
 }
